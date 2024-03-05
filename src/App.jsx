@@ -1,8 +1,8 @@
 function App() {
 
   return (
-    <div className="tets">
-      <h1>
+    <div >
+      <h1 className="text-end text-blue-500">
         selamat pagi
       </h1>
     </div>

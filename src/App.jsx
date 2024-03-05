@@ -1,9 +1,9 @@
 function App() {
 
   return (
-    <div className="tets">
-      <h1>
-        selamat pagi
+    <div>
+      <h1  className="text-center">
+        looooorrr
       </h1>
     </div>
   )

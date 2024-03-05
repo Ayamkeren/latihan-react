@@ -1,12 +1,9 @@
 function App() {
-
   return (
-    <div>
-      <h1  className="text-center">
-        looooorrr
-      </h1>
+    <div className="flex justify-center">
+      <button className="border border-slate-800">apakek</button>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

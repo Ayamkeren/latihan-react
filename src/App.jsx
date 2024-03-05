@@ -3,7 +3,7 @@ function App() {
   return (
     <div className="tets">
       <h1>
-        hello world
+        selamat pagi
       </h1>
     </div>
   )
